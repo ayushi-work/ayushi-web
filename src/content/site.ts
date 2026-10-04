@@ -6,7 +6,6 @@ export const site = {
   pitch:
     "i work across aws, terraform, and observability stacks, and build incident-response tooling like polaris and remediate. go and python. upstream contributor to prometheus/alertmanager, kgateway, and argo-cd. aws certified in cloudops and data engineering.",
   email: "ayushi.work007@gmail.com",
-  phone: "+91 97737 30222",
   github: "https://github.com/ayushi-work",
   socials: [
     { label: "github", href: "https://github.com/ayushi-work" },

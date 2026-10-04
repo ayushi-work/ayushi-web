@@ -244,7 +244,7 @@ export function Contact() {
         </a>
       </div>
       <p className="mt-4 font-mono text-xs text-[var(--muted)]">
-        ghaziabad, india • +91 97737 30222 • email is the fastest way to reach me
+        ghaziabad, india • email is the fastest way to reach me
       </p>
     </Section>
   );
