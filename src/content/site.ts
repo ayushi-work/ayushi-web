@@ -4,7 +4,7 @@ export const site = {
   location: "ghaziabad, india, gmt+5:30",
   hello: "hello, नमस्ते, こんにちは",
   pitch:
-    "i work across aws, terraform, and observability stacks, and build incident-response tooling like polaris and remediate. go and python. upstream contributor to prometheus/alertmanager, kgateway, and argo-cd. aws certified in cloudops and data engineering.",
+    "i work across aws, terraform, and observability stacks, and build incident-response tooling like polaris and remediate. go and python. aws certified in cloudops and data engineering.",
   email: "ayushi.work007@gmail.com",
   github: "https://github.com/ayushi-work",
   socials: [
